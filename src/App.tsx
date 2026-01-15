@@ -3,7 +3,6 @@ import { motion } from 'framer-motion';
 import { RotateCcw, AlertCircle } from 'lucide-react';
 import { Pet, type PetType, type PetData, type RoomType } from './models/Pet';
 import PetSelector from './components/PetSelector';
-import PetDisplay from './components/PetDisplay';
 import StatsPanel from './components/StatsPanel';
 import RoomNavigation from './components/RoomNavigation';
 import RoomView from './components/RoomView';

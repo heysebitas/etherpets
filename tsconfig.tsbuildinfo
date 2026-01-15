@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/petavatar.tsx","./src/components/petdisplay.tsx","./src/components/petselector.tsx","./src/components/roombackground.tsx","./src/components/roomnavigation.tsx","./src/components/roomview.tsx","./src/components/statspanel.tsx","./src/data/pettypes.ts","./src/models/pet.ts"],"version":"5.9.3"}
