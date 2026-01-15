@@ -6,7 +6,13 @@
 
 ## Challenge
 
-Create a game using your favorite programming language.
+**Object Oriented Pet**
+
+Build a digital pet that has its own personality and needs.
+
+- Create a Pet class
+- Every pet should have a name, hunger level, and happiness level
+- Add functions like `feed()`, `play()`, and `getStatus()`
 
 ## Overview
 
